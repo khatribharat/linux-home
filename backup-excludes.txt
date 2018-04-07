@@ -1,0 +1,35 @@
+## Reference: https://help.it.ox.ac.uk/hfs/policy/excluded
+# ?
+/tmp
+# ?
+/var/tmp
+# ?
+/var/log
+/boot
+/cdrom
+/dev
+/devices
+/dvdrom
+/initrd
+/kernel
+/lib
+/lib32
+/lib64
+/lost+found
+/opt
+/platform
+/proc
+/sbin
+/scripts
+/selinux
+/sys
+/system
+/tmp
+/var/sadm
+/var/tmp
+/var/svc
+/var/cache
+/etc/svc/volatile
+/bin
+/usr
+
