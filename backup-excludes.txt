@@ -1,9 +1,6 @@
 ## Reference: https://help.it.ox.ac.uk/hfs/policy/excluded
-# ?
 /tmp
-# ?
-/var/tmp
-# ?
+# Logs can be safely skipped for desktops
 /var/log
 /boot
 /cdrom
@@ -16,7 +13,6 @@
 /lib32
 /lib64
 /lost+found
-/opt
 /platform
 /proc
 /sbin
@@ -33,3 +29,8 @@
 /bin
 /usr
 
+## Reference: https://help.ubuntu.com/community/BackupYourSystem/TAR#Alternate_backup
+/usr/src/linux-headers*
+
+## Others
+/run
